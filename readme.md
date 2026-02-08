@@ -294,12 +294,7 @@ This is a learning repository! Feel free to:
 
 ---
 
-## 🔗 **Connect & Follow Journey**
 
-- **GitHub**: [@Rohitt-Rajj](https://github.com/Rohitt-Rajj)
-- **Twitter**: [Your Twitter Handle]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Blog**: [Your Dev.to/Medium]
 
 **Daily Updates Coming Soon!**
 

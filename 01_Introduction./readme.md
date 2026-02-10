@@ -518,7 +518,7 @@ root.render(title);
 - **Official Docs**: [react.dev](https://react.dev)
 - **Practice**: [React Challenges](https://reactchallenges.live)
 - **Community**: Reactiflux Discord, Reddit r/reactjs
-- **Next Topic**: Functional Components & Hooks
+
 
 ---
 
